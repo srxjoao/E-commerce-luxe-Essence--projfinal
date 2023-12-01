@@ -1,0 +1,42 @@
+{
+    "usuario1": {
+        "nome": "Rodrigo Duran",
+        "local": "Nova Andradina/MS",
+        "categoriasPref": [
+            "Skincare",
+            "Roupas "
+        ]
+    },
+    "usuario2": {
+        "nome": "Joao Pedro",
+        "local": "Nova Andradina/MS",
+        "categoriasPref": [
+            "Acessorios",
+            "Skincare"
+        ]
+    },
+    "usuario3": {
+        "nome": "Rayssa Martins",
+        "local": "Nova Andradina/MS",
+        "categoriasPref": [
+            "Acessorios",
+            "Skincare e Roupas"
+        ]
+    },
+    "usuario4": {
+        "nome": "Jemison",
+        "local": "Nova Andradina/MS",
+        "categoriasPref": [
+            "Acessorios",
+            "Roupas"
+        ]
+    },
+    "usuario5": {
+        "nome": "Lucas",
+        "local": "Nova Andradina/MS",
+        "categoriasPref": [
+            "Acessorios",
+            "Roupas"
+        ]
+    }
+}
